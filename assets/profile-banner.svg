@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title description">
+  <title id="title">Davud Mammadov — Computer Engineering, Robotics, Embedded Systems</title>
+  <desc id="description">Dark graphite engineering banner with subtle blue circuit traces.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10151c"/>
+      <stop offset="0.58" stop-color="#171e27"/>
+      <stop offset="1" stop-color="#0d1218"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2878bd" stop-opacity="0.12"/>
+      <stop offset="0.5" stop-color="#54b8ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2878bd" stop-opacity="0.12"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#8093a8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1500" height="500" fill="url(#background)"/>
+  <rect width="1500" height="500" fill="url(#grid)"/>
+  <g fill="none" stroke="#3895d8" stroke-opacity="0.28" stroke-width="2">
+    <path d="M875 0v82h84v74h98v66h108v-54h122v-78h213"/>
+    <path d="M1018 0v50h86v69h94v73h110v63h192"/>
+    <path d="M1500 322h-188v-68h-99v-65h-95v-86h-94V0"/>
+    <path d="M1500 404h-104v-42h-142v-61h-92v-68h-91v-71h-107V0"/>
+    <path d="M1294 500v-48h-90v-72h-97v-54h-116v-74h-80"/>
+    <path d="M1108 500v-71h-93v-68h-98v-53h-80"/>
+  </g>
+  <g fill="#54b8ff" fill-opacity="0.58">
+    <circle cx="1057" cy="156" r="4"/><circle cx="1187" cy="192" r="4"/>
+    <circle cx="1378" cy="254" r="4"/><circle cx="1204" cy="380" r="4"/>
+    <circle cx="1017" cy="361" r="4"/><circle cx="1108" cy="119" r="4"/>
+    <circle cx="1396" cy="362" r="4"/><circle cx="1019" cy="429" r="4"/>
+  </g>
+  <path d="M80 329H680" stroke="url(#accent)" stroke-width="3"/>
+  <rect x="80" y="103" width="5" height="188" rx="2.5" fill="#54b8ff"/>
+  <text x="108" y="188" fill="#f2f6fa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="650" letter-spacing="2">DAVUD MAMMADOV</text>
+  <text x="110" y="251" fill="#aebdca" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="2.2">COMPUTER ENGINEERING | ROBOTICS | EMBEDDED SYSTEMS</text>
+  <text x="110" y="296" fill="#64baff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+</svg>
