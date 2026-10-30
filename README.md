@@ -56,3 +56,4 @@ I am building on my Computer Engineering studies and developing deeper skills in
 
 - [GitHub](https://github.com/da08ud)
 - [LinkedIn](https://www.linkedin.com/in/davud-m-383a292a7/)
+- [instagram](https://www.instagram.com/da_08_ud/)
