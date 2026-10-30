@@ -6,7 +6,7 @@
 
 I am a Computer Engineering student at Burdur Mehmet Akif Ersoy University, interested in the point where software meets physical systems. My background combines industrial automation studies, electronics and maker-focused technical work, and collaborative robotics projects. I enjoy understanding how a system works end to end—from sensors and circuits to embedded code and Linux tooling.
 
-**Location:** Burdur, Türkiye
+**Location:** Burdur, Türkiye and Bakı Azərbaycan
 
 ## Education and engineering background
 
